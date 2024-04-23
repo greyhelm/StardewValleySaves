@@ -1,1 +1,7 @@
-``` C:\Users\*\AppData\Roaming\StardewValley\Saves\ ```
+``` 
+    Press Windows + R to show a 'run' dialogue box.
+    Paste this exact text:
+
+    %appdata%\StardewValley\Saves
+	
+```
